@@ -1,3 +1,3 @@
-# glowing-tribble
-## THis is an introduction to GIT
-Has a catchy name 
+# glowing-tribble 9/11/21 Fall Semester
+## THis is an INtroduction to Source Code Managnment 
+ 
