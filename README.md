@@ -1,3 +1,3 @@
 # glowing-tribble
-animation and color and more indepth sequence
-Has a catchy name
+## THis is an introduction to GIT
+Has a catchy name 
